@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thw:home|Door43 (thw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thw|d43-thw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thw/archive/master.zip|d43-thw.zip]]
+
+**Recent Changes**
+{{changes>ns = thw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thw|Ethnologue data]]
+
